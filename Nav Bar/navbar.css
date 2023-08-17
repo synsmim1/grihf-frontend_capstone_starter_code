@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(213, 193, 181)73, 69;
+}
+
+.header{
+    font-size: small;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(229, 228, 228);
+}
+
+ul li{
+    list-style-type: disc;
+    display: inline;
+    margin: auto;
+    padding: 10px;
+}
